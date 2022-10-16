@@ -165,6 +165,9 @@ def get_data():
 
     return x_train,y_train,x_test,y_test
 
+def Josie():
+    return "FUCK U"
+
 if __name__ == '__main__':
     train_images = load_train_images()
     train_labels = load_train_labels()
